@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|c:\\users\\asvtuser\\desktop\\c#practice\\mvc8\\mvc8\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|c:\\users\\asvtuser\\desktop\\c#practice\\mvc8\\mvc8\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|c:\\users\\asvtuser\\desktop\\c#practice\\mvc8\\mvc8\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|c:\\users\\asvtuser\\desktop\\c#practice\\mvc8\\mvc8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|c:\\users\\asvtuser\\desktop\\c#practice\\mvc8\\mvc8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|c:\\users\\asvtuser\\desktop\\c#practice\\mvc8\\mvc8\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|c:\\users\\asvtuser\\desktop\\c#practice\\mvc8\\mvc8\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|c:\\users\\asvtuser\\desktop\\c#practice\\mvc8\\mvc8\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|c:\\users\\asvtuser\\desktop\\c#practice\\mvc8\\mvc8\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|c:\\users\\asvtuser\\desktop\\c#practice\\mvc8\\mvc8\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|c:\\users\\asvtuser\\desktop\\c#practice\\mvc8\\mvc8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8BC173F2-0906-4BBE-9EA1-DFF6267EE0A9}|MVC8\\MVC8.csproj|solutionrelative:mvc8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC8\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "MVC8\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T08:12:35.45Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MVC8\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MVC8\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA1wAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:49:58.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "MVC8\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "MVC8\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T04:45:50.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC8\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC8\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T04:04:18.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVC8\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Models\\Category.cs",
+              "RelativeToolTip": "MVC8\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:53:57.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC8\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "MVC8\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T05:07:09.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Program.cs",
+              "RelativeDocumentMoniker": "MVC8\\Program.cs",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Program.cs",
+              "RelativeToolTip": "MVC8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:22:45.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC8\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "MVC8\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T09:12:10.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MVC8\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MVC8\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:01:06.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC8\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "MVC8\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T07:36:01.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "MVC8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "MVC8\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAANI2AAAAAAAAAADwv9s2AAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-31T06:55:06.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
