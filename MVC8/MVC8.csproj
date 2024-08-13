@@ -15,4 +15,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccess\MVC8.DataAccess.csproj" />
+    <ProjectReference Include="..\Models\MVC8.Models.csproj" />
+    <ProjectReference Include="..\Utility\MVC8.Utility.csproj" />
+  </ItemGroup>
+
 </Project>

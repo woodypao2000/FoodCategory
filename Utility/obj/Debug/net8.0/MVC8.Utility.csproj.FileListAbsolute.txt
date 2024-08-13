@@ -1,0 +1,12 @@
+C:\Users\ASVTUSER\Desktop\新增資料夾\FoodCategory\Utility\bin\Debug\net8.0\MVC8.Utility.deps.json
+C:\Users\ASVTUSER\Desktop\新增資料夾\FoodCategory\Utility\bin\Debug\net8.0\MVC8.Utility.dll
+C:\Users\ASVTUSER\Desktop\新增資料夾\FoodCategory\Utility\bin\Debug\net8.0\MVC8.Utility.pdb
+C:\Users\ASVTUSER\Desktop\新增資料夾\FoodCategory\Utility\obj\Debug\net8.0\MVC8.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASVTUSER\Desktop\新增資料夾\FoodCategory\Utility\obj\Debug\net8.0\MVC8.Utility.AssemblyInfoInputs.cache
+C:\Users\ASVTUSER\Desktop\新增資料夾\FoodCategory\Utility\obj\Debug\net8.0\MVC8.Utility.AssemblyInfo.cs
+C:\Users\ASVTUSER\Desktop\新增資料夾\FoodCategory\Utility\obj\Debug\net8.0\MVC8.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ASVTUSER\Desktop\新增資料夾\FoodCategory\Utility\obj\Debug\net8.0\MVC8.Utility.sourcelink.json
+C:\Users\ASVTUSER\Desktop\新增資料夾\FoodCategory\Utility\obj\Debug\net8.0\MVC8.Utility.dll
+C:\Users\ASVTUSER\Desktop\新增資料夾\FoodCategory\Utility\obj\Debug\net8.0\refint\MVC8.Utility.dll
+C:\Users\ASVTUSER\Desktop\新增資料夾\FoodCategory\Utility\obj\Debug\net8.0\MVC8.Utility.pdb
+C:\Users\ASVTUSER\Desktop\新增資料夾\FoodCategory\Utility\obj\Debug\net8.0\ref\MVC8.Utility.dll

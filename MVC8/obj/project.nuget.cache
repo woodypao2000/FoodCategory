@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0PIOgnMkvV0=",
+  "dgSpecHash": "oAGn6JC05XA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\MVC8.csproj",
+  "projectFilePath": "C:\\Users\\ASVTUSER\\Desktop\\新增資料夾\\FoodCategory\\MVC8\\MVC8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASVTUSER\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ASVTUSER\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",

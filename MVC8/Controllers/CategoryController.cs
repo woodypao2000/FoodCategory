@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MVC8.Data;
+using MVC8.DataAccess.Data;
 using MVC8.Models;
-
 namespace MVC8.Controllers
 {
     public class CategoryController : Controller
@@ -13,7 +12,7 @@ namespace MVC8.Controllers
         }
         public IActionResult Index()
         {
-            List<Category> categories = _db.Categories.ToList(); 
+            List<Category> categories = _db.Categories.ToList();
 
             return View(categories); //傳遞給前端
 

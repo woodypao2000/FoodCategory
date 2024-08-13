@@ -1580,6 +1580,42 @@
             "rid": "win"
           }
         }
+      },
+      "MVC8.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MVC8.Models": "1.0.0",
+          "MVC8.Utility": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "9.0.0-preview.6.24327.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0-preview.6.24327.4"
+        },
+        "compile": {
+          "bin/placeholder/MVC8.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVC8.DataAccess.dll": {}
+        }
+      },
+      "MVC8.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MVC8.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVC8.Models.dll": {}
+        }
+      },
+      "MVC8.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MVC8.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVC8.Utility.dll": {}
+        }
       }
     }
   },
@@ -4698,10 +4734,28 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "MVC8.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess/MVC8.DataAccess.csproj",
+      "msbuildProject": "../DataAccess/MVC8.DataAccess.csproj"
+    },
+    "MVC8.Models/1.0.0": {
+      "type": "project",
+      "path": "../Models/MVC8.Models.csproj",
+      "msbuildProject": "../Models/MVC8.Models.csproj"
+    },
+    "MVC8.Utility/1.0.0": {
+      "type": "project",
+      "path": "../Utility/MVC8.Utility.csproj",
+      "msbuildProject": "../Utility/MVC8.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "MVC8.DataAccess >= 1.0.0",
+      "MVC8.Models >= 1.0.0",
+      "MVC8.Utility >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.0-preview.6.24327.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.0-preview.6.24327.4",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.0-preview.6.24327.4"
@@ -4714,11 +4768,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\MVC8.csproj",
+      "projectUniqueName": "C:\\Users\\ASVTUSER\\Desktop\\新增資料夾\\FoodCategory\\MVC8\\MVC8.csproj",
       "projectName": "MVC8",
-      "projectPath": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\MVC8.csproj",
+      "projectPath": "C:\\Users\\ASVTUSER\\Desktop\\新增資料夾\\FoodCategory\\MVC8\\MVC8.csproj",
       "packagesPath": "C:\\Users\\ASVTUSER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASVTUSER\\Desktop\\C#practice\\MVC8\\MVC8\\obj\\",
+      "outputPath": "C:\\Users\\ASVTUSER\\Desktop\\新增資料夾\\FoodCategory\\MVC8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4739,7 +4793,17 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ASVTUSER\\Desktop\\新增資料夾\\FoodCategory\\DataAccess\\MVC8.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\ASVTUSER\\Desktop\\新增資料夾\\FoodCategory\\DataAccess\\MVC8.DataAccess.csproj"
+            },
+            "C:\\Users\\ASVTUSER\\Desktop\\新增資料夾\\FoodCategory\\Models\\MVC8.Models.csproj": {
+              "projectPath": "C:\\Users\\ASVTUSER\\Desktop\\新增資料夾\\FoodCategory\\Models\\MVC8.Models.csproj"
+            },
+            "C:\\Users\\ASVTUSER\\Desktop\\新增資料夾\\FoodCategory\\Utility\\MVC8.Utility.csproj": {
+              "projectPath": "C:\\Users\\ASVTUSER\\Desktop\\新增資料夾\\FoodCategory\\Utility\\MVC8.Utility.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

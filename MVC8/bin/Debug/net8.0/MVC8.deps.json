@@ -8,6 +8,9 @@
     ".NETCoreApp,Version=v8.0": {
       "MVC8/1.0.0": {
         "dependencies": {
+          "MVC8.DataAccess": "1.0.0",
+          "MVC8.Models": "1.0.0",
+          "MVC8.Utility": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.0-preview.6.24327.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0-preview.6.24327.4",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.0-preview.6.24327.4"
@@ -982,6 +985,27 @@
         "dependencies": {
           "System.Drawing.Common": "4.7.0"
         }
+      },
+      "MVC8.DataAccess/1.0.0": {
+        "dependencies": {
+          "MVC8.Models": "1.0.0",
+          "MVC8.Utility": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "9.0.0-preview.6.24327.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0-preview.6.24327.4"
+        },
+        "runtime": {
+          "MVC8.DataAccess.dll": {}
+        }
+      },
+      "MVC8.Models/1.0.0": {
+        "runtime": {
+          "MVC8.Models.dll": {}
+        }
+      },
+      "MVC8.Utility/1.0.0": {
+        "runtime": {
+          "MVC8.Utility.dll": {}
+        }
       }
     }
   },
@@ -1536,6 +1560,21 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
+    },
+    "MVC8.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVC8.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVC8.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

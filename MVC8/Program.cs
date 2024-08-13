@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
-using MVC8.Data;
+using MVC8.DataAccess.Data;
 
 namespace MVC8
 {
