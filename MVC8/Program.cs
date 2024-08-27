@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using MVC8.DataAccess.Data;
+using MVC8.DataAccess.Repository;
+using MVC8.DataAccess.Repository.IRepository;
 
 namespace MVC8
 {
@@ -13,7 +15,8 @@ namespace MVC8
             // Add services to the container.
             builder.Services.AddControllersWithViews();//將View 加入至容器
             builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
+            builder.Services.AddScoped<ICategoryRepository,CategoryRepository>();//引用接口與實現
+            builder.Services.AddScoped<IUnitOfWork,UnitOfWork>();
             var app = builder.Build();//創建 app = 利用builder.Build 配置
 
             // Configure the HTTP request pipeline.
@@ -30,7 +33,7 @@ namespace MVC8
             app.UseAuthorization();     //授權
             app.MapControllerRoute(     //Controller 路由
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
 
             app.Run();                  //啟動
         }

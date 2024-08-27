@@ -17,7 +17,6 @@ namespace MVC8.DataAccess.Data
                 new Category { Id = 2, Name = "水果茶", DisplayOrder = 2 },
                 new Category { Id = 3, Name = "咖啡", DisplayOrder = 3 }
 
-
                );
         }
     }
